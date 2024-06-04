@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The goal of this script is to create an easy way for anyone to clean up junk from their Windows OS System without needing to install any additional software. I use this personally and while it doesn't get EVERYTHING, it does get a lot of junk from common places it can build up.
+The goal of this script is to create an easy way for anyone to set some sensible settings in their Windows 10/11 Systems without needing to install any additional software.
 
 ## Instructions
 
