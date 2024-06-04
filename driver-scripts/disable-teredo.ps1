@@ -4,7 +4,7 @@ Write-Host("--------------")
 $registry_path = "HKLM:\Software\Policies\Microsoft\Windows\TCPIP\v6Transition"
 $value_name = "Teredo_State"
 $value_data = "Disabled"
-$property_type = "SZ"
+$property_type = "STRING"
 
 if (!(Test-Path -Path $registry_path -PathType Container)){
     New-Item -Path $registry_path -Force | Out-Null
