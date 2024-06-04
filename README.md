@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The goal of this script is to create an easy way for anyone to set some sensible settings in their Windows 10/11 Systems without needing to install any additional software.
+The goal of this script is to create an easy way for anyone to set some sensible settings in their Windows Systems without needing to install any additional software.
 
 ## Instructions
 
