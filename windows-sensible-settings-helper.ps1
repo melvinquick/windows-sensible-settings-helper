@@ -30,4 +30,4 @@ if ($disable_windows_copilot.ToLower() -eq "y") {
 }
 
 
-Write-Host("`nScript has finished setting your desired sensible settings!") -ForegroundColor Cyan
+Write-Host("`nScript has finished applying your desired sensible settings!") -ForegroundColor Cyan
