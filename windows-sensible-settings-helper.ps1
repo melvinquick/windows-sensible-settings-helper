@@ -19,6 +19,8 @@ if ($windows_version.StartsWith("Microsoft Windows 10") -or $windows_version.Sta
 }
 else {
     Write-Host("This script is only compatible with Windows 10 and Windows 11. Unfortunately, you're Windows Version is $windows_version!")
+    Write-Host("Script will now exit...")
+    exit
 }
 
 
